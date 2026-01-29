@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/activity_main.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/activity_host_edit.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_host_edit.xml"
+    },
+    {
+        "merged": "com.sshfp.app-mergeDebugResources-62:/layout/activity_terminal.xml",
+        "source": "com.sshfp.app-main-65:/layout/activity_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/activity_editor.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/fragment_sftp.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/fragment_sftp.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/fragment_terminal.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/fragment_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/activity_terminal.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/item_file.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/item_file.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/item_host.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/item_host.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-mergeDebugResources-62:/layout/fragment_host.xml",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/fragment_host.xml"
+    }
+]

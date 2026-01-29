@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_activity_terminal.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/menu_menu_terminal.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/menu/menu_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_fragment_sftp.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/fragment_sftp.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_fragment_terminal.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/fragment_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_item_file.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/item_file.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_activity_host_edit.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_host_edit.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_fragment_host.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/fragment_host.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/drawable_ic_lock.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/drawable_ic_key.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/drawable/ic_key.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/menu_menu_editor.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/menu/menu_editor.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_activity_editor.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_item_host.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/item_host.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sshfp.app-merged_res-63:/layout_activity_terminal.xml.flat",
+        "source": "com.sshfp.app-main-65:/layout/activity_terminal.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/layout_activity_main.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "/home/pxh/.gradle/daemon/8.0.2/com.sshfp.app-main-65:/mipmap-xxxhdpi/ic_launcher.xml"
+    }
+]
